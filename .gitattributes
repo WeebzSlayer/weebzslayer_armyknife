@@ -1,0 +1,52 @@
+# Force GitHub to view these as TypeScript
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+
+# Ignore build directories and dependencies from language stats (Recursive)
+dist/** linguist-vendored
+release/** linguist-vendored
+node_modules/** linguist-vendored
+coverage/** linguist-vendored
+
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source code
+*.js text
+*.json text
+*.html text
+*.css text
+*.md text
+
+# Graphics and Assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+
+# WoW Modding & 3D formats
+*.m2 binary
+*.blp binary
+*.obj binary
+*.mdx binary
+*.db binary
+*.dbc binary
+
+# Windows / Electron executables
+*.exe binary
+*.dll binary
+*.node binary
+
+# Archives
+*.7z binary
+*.zip binary
+*.rar binary
+*.tar binary
+*.gz binary
+
+# Ignore generated files explicitly
+package-lock.json linguist-generated
+yarn.lock linguist-generated
+pnpm-lock.yaml linguist-generated
