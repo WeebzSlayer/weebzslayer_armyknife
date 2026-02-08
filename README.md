@@ -6,8 +6,6 @@
 
 > **Ez retroporter & toolshed**
 
-![WeebzSlayer Banner](./banner.png)
-
 ## 👨‍💻 About The Project
 
 The process of retroporting can be very discouraging at first for beginners. Even for experienced modders, it remains the same boring task of filling and modifying paths, DBC editing, and SQL editing... This app is not complicated once you understood the key steps in retroporting. This app would be handy and some people would make you pay for this "I have a private tool" smh... I also made the DBC editing and SQL editing only possible for one item or one creature at a time on purpose. It can be hell to go back to some **TextureVariation** when you have the wrong path or name entered.
