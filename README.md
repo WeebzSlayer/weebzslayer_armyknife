@@ -153,5 +153,5 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 **Free and Open Source.** 🏴‍☠️
 
 ---
-<img width="776" height="494" alt="wbzbanner" src="https://github.com/user-attachments/assets/0c732037-6084-4a2f-8bf0-aa6840160701" />
+<p align="center"><img width="776" height="494" alt="wbzbanner" src="https://github.com/user-attachments/assets/0c732037-6084-4a2f-8bf0-aa6840160701" /></p>
 
