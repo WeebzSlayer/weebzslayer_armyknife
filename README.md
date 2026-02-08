@@ -85,7 +85,7 @@ Gonna had a sql sync with HeidiSQL.
 *   **iThorgrim**: For the `m2_particle_fix` inspiration.
 *   **ayahne**: For the `m2_particle_fix` python script .
 *   **Sylian**: For the `OBJ_to_M2` tutorial.
-*   **August**: For being a friend in this community.
+*   **August**: For being a friend in this community and having good ideas.
 *   **manmadedrummer**: For the previous inspiration.
 *   **Titi**: For the multiple helps in the past.
 *   💀 Special shout out to the weirdo reddit mod and any of these preposterous individuals. I'm not going to acknowledge the popular crackhead that thought I was part of the hate mob against him lol.
