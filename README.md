@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About The Project
 
-The process of retroporting can be very discouraging at first for beginners. Even for experienced players, it remains the same boring task of filling and modifying paths, DBC editing, and SQL editing... It's not a complicated app but it is handy and some people would make you pay (bonkers!) for this lol.
+The process of retroporting can be very discouraging at first for beginners. Even for experienced modders, it remains the same boring task of filling and modifying paths, DBC editing, and SQL editing... This app is not complicated once you understood the key steps in retroporting. This app would be handy and some people would make you pay for this "I have a private tool" smh... I also made the DBC editing and SQL editing only possible for one item or one creature at a time on purpose. It can be hell to go back to some **TextureVariation** when you have the wrong path or name entered.
 
 **WeebzSlayer_ArmyKnife** was made to simplify the different steps you need to:
 *   Retroport Items & Creatures 👹
@@ -76,6 +76,7 @@ I will go through all the tedious steps still required to import the DBCs and th
 ## 🚧 Work In Progress (WIP)
 
 This app is ready **Plug and Play**. I just need to finish the Readme.
+Gonna had a sql sync with HeidiSQL.
 
 ---
 
