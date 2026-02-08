@@ -31,15 +31,17 @@ Quit MPQeditor.
 
 7- Move your Patch-w in your Client Data folder. Start the game spawn the item with .additem (replace this by the ID in itemtemplate.sql)
 
-== Congratulation. Your new item is now retroported! ==
+<ins>**Congratulations! Your new item is now retroported!**<ins>
 
-== WIP == This app is finished I just need to finish the Readme.
+<ins>**WIP**<ins> This app is finished I just need to finish the Readme.
 
 Thanks to iThorgrim for the m2_particle_fix inspiration.
 Thanks to August for being a friend in this community.
 Thanks to manmadedrummer for the previous inspiration.
 Thanks to Titi for the multiple helps in the past.
-A special shout out to the weirdo reddit mod and any of these rejects.
+A special shout out to the weirdo reddit mod and any of these preposterous individuals.
 
 One last thing I made this UI on purpose to mock the ego of some of these so called devs in the modding community. You're taking yourself too seriously chill. 
 To laugh at oneself is to embrace humility.
+
+Free and Open Source.
