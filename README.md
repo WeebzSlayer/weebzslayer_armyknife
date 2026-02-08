@@ -40,6 +40,7 @@ Thanks to August for being a friend in this community.
 Thanks to manmadedrummer for the previous inspiration.
 Thanks to Titi for the multiple helps in the past.
 A special shout out to the weirdo reddit mod and any of these preposterous individuals.
+I'm not going to thank the popular crackhead that thought I was part of the hate mob against him lol.
 
 One last thing I made this UI on purpose to mock the ego of some of these so called devs in the modding community. You're taking yourself too seriously chill. 
 To laugh at oneself is to embrace humility.
