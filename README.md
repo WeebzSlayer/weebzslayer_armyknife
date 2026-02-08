@@ -6,13 +6,7 @@
 
 > **Ez retroporter & toolshed**
 
-<!-- START OF BANNER -->
-<br />
-<div align="center">
-  <img src="banner.png" alt="WeebzSlayer ArmyKnife Interface" width="100%">
-</div>
-<br />
-<!-- END OF BANNER -->
+![WeebzSlayer Banner](./banner.png)
 
 ## 👨‍💻 About The Project
 
