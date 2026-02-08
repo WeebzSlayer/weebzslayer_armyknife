@@ -30,7 +30,7 @@ The process of retroporting can be very discouraging at first for beginners. Eve
 
 ---
 
-## 📖 Item_Retroport Documentation
+## ⚔️ Item_Retroport Documentation
 
 I will go through all the tedious steps still required to import the DBCs and the SQL. If you already have retroported items, this tool should make the process faster and less boring (I guess).
 
@@ -119,7 +119,7 @@ I will go through all the tedious steps still required to import the DBCs and th
     *   Move your `Patch-v` into your Client `Data` folder.
     *   Start the game and spawn the creature:
     ```bash
-    .npc add [ID_CREATURETEMPLATE_SQL]
+    .npc add [ID_creature_template_SQL]
     ```
 
 **Congratulations! Your new creature is now retroported!** 🎉
