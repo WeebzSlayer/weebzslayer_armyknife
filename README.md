@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About The Project
 
-The process of retroporting can be very discouraging at first for beginners. Even for experienced players, it remains the same boring task of filling and modifying paths, DBC editing, and SQL editing...
+The process of retroporting can be very discouraging at first for beginners. Even for experienced players, it remains the same boring task of filling and modifying paths, DBC editing, and SQL editing... It's not a complicated app but it is handy and some people would make you pay (bonkers!) for this lol.
 
 **WeebzSlayer_ArmyKnife** was made to simplify the different steps you need to:
 *   Retroport Items & Creatures 👹
