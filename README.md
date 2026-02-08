@@ -70,10 +70,59 @@ I will go through all the tedious steps still required to import the DBCs and th
     *   Move your `Patch-w` into your Client `Data` folder.
     *   Start the game and spawn the item:
     ```bash
-    .additem [ID_FROM_SQL]
+    .additem [ID_item_template_SQL]
     ```
 
 **Congratulations! Your new item is now retroported!** 🎉
+
+---
+
+## 👹 Creature_Retroport Documentation
+
+I will go through all the tedious steps still required to import the DBCs and the SQL. If you already have retroported creatures, this tool should make the process faster and less boring (I guess).
+
+### 🛠️ Step-by-Step Guide
+
+1.  **Fill Data:** Fill every case with the values that correspond to the **creature dbcs tables** and **sqls tables**.
+2.  **Model Paths:** Make sure the path ends with `.mdx` for the `Modelname`.
+    *   *Example:* `creature/example/example.mdx`
+3.  **Textures:** **Texturevariation_1**, **Texturevariation_2** and **Texturevariation_3** do not require `.blp` at the end of the path. Only write the model name.
+4.  **Exporting Files:**
+    *   Copy the `creaturemodelinfo.dbc`. Open Notepad, paste it, and save as `creaturemodelinfo.csv`.
+    *   Copy the `creaturedisplayinfo.dbc`. Open Notepad, paste it, and save as `creaturedisplayinfo.csv`.
+    *   Copy the server SQL `creature_model_info`. Open Notepad, paste it, and save as `creature_model_info.sql`.
+    *   Copy the server SQL `creature_template`. Open Notepad, paste it, and save as `creature_template.sql`.
+
+### 💾 Database & SQL Injection
+
+5.  **WDBX Import:**
+    *   **Creaturemodelinfo.dbc:** Open your server data folder. Open `creaturemodelinfo.dbc` with **Wdbx**. Click **Import** > **From CSV** and select the `creaturemodelinfo.csv` from Step 4. Click **OK**, then **Save**.
+    *   **Creaturedisplayinfo.dbc:** Repeat the process. Open `creaturedisplayinfo.dbc` with **Wdbx**. Click **Import** > **From CSV**, select `creaturedisplayinfo.csv`. Click **OK**, then **Save**.
+    *   *Note:* Copy your updated `.dbc` files and put them somewhere safe for your client patch.
+
+    *   **SQL (Model Info):** Open **HeidiSQL** (or your preferred manager). Select your `acore_world/creature_model_info` table. Start a new query tab, paste the `creature_model_info.sql` from Step 4, and **Run** the query.
+    *   **SQL (Template):** Open **HeidiSQL**. Select your `acore_world/creature_template` table. Start a new query tab, paste the `creature_template.sql` from Step 4, and **Run** the query.
+
+### 📦 Patching (MPQEditor)
+
+6.  **Create the Patch:**
+    *   Open **MPQEditor**. Create a new patch (e.g., `Patch-v.mpq`).
+    *   Indicate the path of your `creature/example` and other files required for the retroport (ensure they are in the same directory). Click **OK**.
+    *   Add a bigger size for the patch. Click **OK**.
+    *   **DBFilesClient:** Click "Create a new folder" inside the MPQ. Name it `DBFilesClient`.
+    *   Add your updated `creaturemodelinfo.dbc` and `creaturedisplayinfo.dbc` (saved in Step 5) into this folder.
+    *   Quit MPQEditor.
+
+### 🎮 Final Step
+
+7.  **Deployment:**
+    *   Move your `Patch-v` into your Client `Data` folder.
+    *   Start the game and spawn the creature:
+    ```bash
+    .npc add [ID_CREATURETEMPLATE_SQL]
+    ```
+
+**Congratulations! Your new creature is now retroported!** 🎉
 
 ---
 
