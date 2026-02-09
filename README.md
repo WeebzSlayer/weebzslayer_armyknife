@@ -164,7 +164,7 @@ I will go through all the tedious steps still required to import the DBCs and th
 
 ## 🐎 Mount_Creator Documentation
 
-Work in Progress. Documenting process engaged `beep beep`... BOOOOooooooring huh!🙄
+Work in Progress. `Documenting process engaged beep beep`... `BOOOOooooooring huh!`🙄
 
 ---
 
