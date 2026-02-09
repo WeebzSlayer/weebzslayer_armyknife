@@ -138,6 +138,39 @@ I will go through all the tedious steps still required to import the DBCs and th
 
 ---
 
+## 🐎 Mount_Creator Documentation
+
+Work in Progress. Documenting process engaged `beep beep`... BOOOOooooooring huh!
+
+---
+
+## ✨ M2_Particle_Fix Documentation
+
+### 🛠️ Step-by-Step Guide
+
+1.  **Input:** Drag & Drop your broken `.m2` file.
+2.  **Et voilà!** Nothing more to do, the file is fixed!
+    *   A **green success message** should appear on the right screen log.
+    *   If it failed, you will see a **red message** detailing the error on the right screen log.
+
+---
+
+## 🧊 OBJ_to_M2 ✨ Documentation
+
+### 🛠️ Step-by-Step Guide
+
+1.  **Source:** Drag & Drop your OBJ in **SOURCE_OBJ**.
+2.  **Texture:** Drag & Drop your TEXTURE in **TEXTURE_REF**.
+3.  **Fill Data:** Fill the `ingametexturepath`.
+    *   *Example:* `item/objectcomponents/weapons/`
+    *   *Warning:* Path will be injected into M2 header offset `0x58`.
+4.  **Convert:** Click on **INITIALIZE_CONVERSION**. The processes should start.
+    *   The **status_monitor** should turn green and the screen log should start.
+
+**Your OBJ has been successfully converted to M2! Hurray!** 🎉
+
+---
+
 ## 🚧 Work In Progress (WIP)
 
 This app is ready **Plug and Play**🔌✅. I just need to finish the Readme.
