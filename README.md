@@ -140,7 +140,7 @@ I will go through all the tedious steps still required to import the DBCs and th
 ## 🚧 Work In Progress (WIP)
 
 This app is ready **Plug and Play**🔌✅. I just need to finish the Readme.
-Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retroport. I will have to change creaturemodel.dbc to creaturemodeldata.dbc. At the moment this isn't affecting anything tho.
+Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retroport. I will have to change creaturemodel.dbc to creaturemodeldata.dbc. At the moment this isn't affecting anything tho. I will incorporate the M2Workshop from Wall in the WeebzSlayer_ArmyKnife1.1.1 next release. Thanks Wall!
 
 ---
 
@@ -150,8 +150,9 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 *   **ayahne**: For the `m2_particle_fix` python script .
 *   **Sylian**: For the `OBJ_to_M2` tutorial.
 *   **August**: For being a friend in this community and having good ideas.
-*   **manmadedrummer**: For the previous inspiration.
-*   **Titi**: For the multiple helps in the past.
+*   **Wall**: For the `M2Workshop` script.
+*   **manmadedrummer**: For the previous inspirations.
+*   **Titi**: For the multiple helps and patience.
 *   💀 Special shout out to the weirdo reddit mod and any of these preposterous individuals. I'm not going to acknowledge the popular crackhead that thought I was part of the hate mob against him lol.
 
 ---
