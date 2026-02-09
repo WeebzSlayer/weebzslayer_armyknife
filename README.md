@@ -223,7 +223,7 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 
 ## 📠 Author's Note
 
-> "One last thing. I made this UI on purpose to mock the ego of some so called "devs" in the modding community. I won't talk about the low lives ripping off someone else's code and selling it afterwards... Anyway... if you are one of these big melon heads nerds reading this rn... you need to chill lol. You're not helping us reverse entropy! To laugh at oneself is to embrace humility. The next project is the Logg/load_ingScreens_Studio and I already have an idea for the UI.😂"
+> "One last thing. I made this UI on purpose to mock the ego of some so called "devs" in the modding community. I won't talk about the low lives ripping off someone else's code and selling it afterwards... Anyway... if you are one of these big melon heads nerds reading this rn... you need to chill lol. You're not helping us reverse entropy m'kay! To laugh at oneself is to embrace humility. The next project is the Logg/load_ingScreens_Studio and I already have an idea for the UI.😂"
 
 ### 🔓 License
 **Free and Open Source.** 🏴‍☠️ 🇫🇷
