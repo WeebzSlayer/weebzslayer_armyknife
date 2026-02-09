@@ -2,7 +2,7 @@
 ![Java](https://img.shields.io/badge/Java-2.5%25-red)
 ![HTML](https://img.shields.io/badge/HTML-2.5%25-orange)
 
-# ⚔️ WeebzSlayer_ArmyKnife 🛠️
+# ⚔️ 𝐖𝐞𝐞𝐛𝐳𝐒𝐥𝐚𝐲𝐞𝐫_𝐀𝐫𝐦𝐲𝐊𝐧𝐢𝐟𝐞 🛠️
 
 
 > **Ez retroporter & toolshed**
