@@ -1,6 +1,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-95%25-blue)
-![Java](https://img.shields.io/badge/Java%25-red)
-![HTML](https://img.shields.io/badge/HTML%25-orange)
+![Java](https://img.shields.io/badge/Java25-red)
+![HTML](https://img.shields.io/badge/HTML25-orange)
 
 # ⚔️ 𝐖𝐞𝐞𝐛𝐳𝐒𝐥𝐚𝐲𝐞𝐫_𝐀𝐫𝐦𝐲𝐊𝐧𝐢𝐟𝐞 🛠️
 
