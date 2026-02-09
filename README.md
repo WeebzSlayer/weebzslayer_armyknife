@@ -16,6 +16,7 @@
 The process of retroporting can be very discouraging at first for beginners. Even for experienced modders, it remains the same boring task of filling and modifying paths, DBC editing, and SQL editing... This app is not complicated once you understood the key steps in retroporting. This app would be handy and some people would make you pay for this "I have a private tool" smh... I also made the DBC editing and SQL editing only possible for one item or one creature at a time on purpose. It can be hell to go back to some **TextureVariations** missmatching when you have the wrong path or name entered after entering 20 rows or sum...
 
 **WeebzSlayer_ArmyKnife** was made to simplify the different steps you need to:
+
 *   Retroport Items⚔️ & Creatures👹
 *   Create Mounts 🐎
 *   Fix M2 particles ✨
@@ -72,17 +73,25 @@ I will go through all the tedious steps still required to import the DBCs and th
 ### 📦 Patching (MPQEditor)
 
 6.  **Create the Patch:**
+
     *   Open **MPQEditor**. Create a new patch (e.g., `Patch-w.mpq`).
+
     *   Indicate the path of your `item/objectcomponents` and other files required for the retroport (ensure they are in the same directory). Click **OK**.
+
     *   Add a bigger size for the patch. Click **OK**.
+
     *   **DBFilesClient:** Click "Create a new folder" inside the MPQ. Name it `DBFilesClient`.
+
     *   Add your updated `item.dbc` and `itemdisplayinfo.dbc` (saved in Step 5) into this folder.
+
     *   Quit MPQEditor.
 
 ### 🎮 Final Step
 
 7.  **Deployment:**
+
     *   Move your `Patch-w` into your Client `Data` folder.
+
     *   Start the game and spawn the item:
     ```bash
     .additem [ID_item_template_SQL]
@@ -166,7 +175,9 @@ Work in Progress. Documenting process engaged `beep beep`... BOOOOooooooring huh
 1.  **Input:** Drag & Drop your broken `.m2` file.
 
 2.  **Et voilà!** Nothing more to do, the file is fixed!
+
     *   A **green success message** should appear on the right screen log.
+
     *   If it failed, you will see a **red message** detailing the error on the right screen log.
 
 ---
@@ -212,7 +223,7 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 
 ## 📠 Author's Note
 
-> "One last thing. I made this UI on purpose to mock the ego of some "devs" in the modding community. You're taking yourself too seriously you need to chill lol. You're not helping us reverse entropy lol! To laugh at oneself is to embrace humility. The next project is the Logg/load_ing_Screens_Studio and I already have an idea for the UI.😂"
+> "One last thing. I made this UI on purpose to mock the ego of some "devs" in the modding community. I won't talk about the people ripping off others code and selling it afterwards... Anyway if you are of these big melon head nerds that are taking yourself too seriously you need to chill lol. You're not helping us reverse entropy lol! To laugh at oneself is to embrace humility. The next project is the Logg/load_ingScreens_Studio and I already have an idea for the UI.😂"
 
 ### 🔓 License
 **Free and Open Source.** 🏴‍☠️ 🇫🇷
