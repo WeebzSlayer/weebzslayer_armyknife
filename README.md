@@ -114,8 +114,9 @@ I will go through all the tedious steps still required to import the DBCs and th
 ### 💾 Database & SQL Injection
 
 5.  **WDBX Import:**
+
     *   **Creaturemodelinfo.dbc:** Open your server data folder. Open `creaturemodelinfo.dbc` with **Wdbx**. Click **Import** > **From CSV** and select the `creaturemodelinfo.csv` from Step 4. Click **OK**, then **Save**.
-    *   **Creaturedisplayinfo.dbc:** Repeat the process. Open `creaturedisplayinfo.dbc` with **Wdbx**. Click **Import** > **From CSV**, select `creaturedisplayinfo.csv`. Click **OK**, then **Save**.
+     *   **Creaturedisplayinfo.dbc:** Repeat the process. Open `creaturedisplayinfo.dbc` with **Wdbx**. Click **Import** > **From CSV**, select `creaturedisplayinfo.csv`. Click **OK**, then **Save**.
     *   *Note:* Copy your updated `.dbc` files and put them somewhere safe for your client patch.
 
     *   **SQL (Model Info):** Open **HeidiSQL** (or your preferred manager). Select your `acore_world/creature_model_info` table. Start a new query tab, paste the `creature_model_info.sql` from Step 4, and **Run** the query.
@@ -124,17 +125,25 @@ I will go through all the tedious steps still required to import the DBCs and th
 ### 📦 Patching (MPQEditor)
 
 6.  **Create the Patch:**
+
     *   Open **MPQEditor**. Create a new patch (e.g., `Patch-v.mpq`).
+
     *   Indicate the path of your `creature/example` and other files required for the retroport (ensure they are in the same directory). Click **OK**.
+
     *   Add a bigger size for the patch. Click **OK**.
+
     *   **DBFilesClient:** Click "Create a new folder" inside the MPQ. Name it `DBFilesClient`.
+
     *   Add your updated `creaturemodelinfo.dbc` and `creaturedisplayinfo.dbc` (saved in Step 5) into this folder.
+
     *   Quit MPQEditor.
 
 ### 🎮 Final Step
 
 7.  **Deployment:**
+
     *   Move your `Patch-v` into your Client `Data` folder.
+
     *   Start the game and spawn the creature:
     ```bash
     .npc add [ID_creature_template_SQL]
@@ -146,7 +155,7 @@ I will go through all the tedious steps still required to import the DBCs and th
 
 ## 🐎 Mount_Creator Documentation
 
-Work in Progress. Documenting process engaged `beep beep`... BOOOOooooooring huh!
+Work in Progress. Documenting process engaged `beep beep`... BOOOOooooooring huh!🙄
 
 ---
 
