@@ -206,7 +206,7 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 > "One last thing. I made this UI on purpose to mock the ego of some "devs" in the modding community. You're taking yourself too seriously you need to chill lol. You're not helping us reverse entropy lol! To laugh at oneself is to embrace humility. The next project is the Logg/load_ing_Screens_Studio and I already have an idea for the UI.😂"
 
 ### 🔓 License
-**Free and Open Source.** 🏴‍☠️
+**Free and Open Source.** 🏴‍☠️🇫🇷
 
 ---
 <p align="center"><img width="388" height="247" alt="wbzbanner" src="https://github.com/user-attachments/assets/d210117b-0361-41af-8095-756a645e95b0" />
