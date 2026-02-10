@@ -206,7 +206,7 @@ Work in Progress. `Documenting process engaged beep beep`... `BOOOOooooooring hu
 ## 🚧 Work In Progress (WIP)
 
 This app is ready **Plug and Play**🔌✅. I just need to finish the Readme.
-Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retroport. I will have to change creaturemodel.dbc to creaturemodeldata.dbc. At the moment this isn't affecting anything tho. I will incorporate the M2Workshop from Wall in the WeebzSlayer_ArmyKnife1.1.1 next release. Thanks Wall! I'm also working on the "Fly path Generator". I'm really happy by some of the responses so far and the differents talented modders that are willing to participate or contributing. Thanks you so much. I might have to stop at some point coz the knife will be too heavy lol.
+Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retroport. I will have to change creaturemodel.dbc to creaturemodeldata.dbc. At the moment this isn't affecting anything tho. I will incorporate the M2Workshop from Wall in the WeebzSlayer_ArmyKnife1.1.1 next release. Thanks Wall! I'm also working on the "Fly path Generator". I'm really happy by some of the responses so far and the differents talented modders that are willing to participate or contributing. Thanks you so much. I might have to stop at some point coz the knife will be too heavy lol. It's already maybe time to make a second version even!
 
 ---
 
