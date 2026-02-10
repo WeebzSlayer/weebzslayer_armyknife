@@ -218,7 +218,7 @@ Gonna add a sql sync with HeidiSQL. A very minor change is in the creature_retro
 *   **[Sylian](https://github.com/Sylian1337)** : For the `OBJ_to_M2` tutorial.
 *   **August** : For being a friend in this community and having good ideas.
 *   **[Wall](https://github.com/Wall-core)** : For the `M2Workshop` script.
-*   **[manmadedrummer](https://github.com/manmadedrummer)** : For the previous inspirations (CapitalsTeleporterNPC_sql).
+*   **[manmadedrummer](https://github.com/manmadedrummer)** : For the previous inspirations. (`capitalsteleporternpc_sql`)
 *   **😏 Péquenaudeluxe**
 *   **🤓 [Tester's mom](https://github.com/TesterWoWDev)**
 
